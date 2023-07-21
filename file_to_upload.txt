@@ -1,0 +1,38 @@
+connection_test.py
+Download Speed: 1.36 Mbps
+Traceback (most recent call last):
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 61, in <module>
+    test_upload_speed()
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 37, in test_upload_speed
+    file_to_upload = open("file_to_upload.txt", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'file_to_upload.txt'
+connection_test.py
+Download Speed: 1.36 Mbps
+Traceback (most recent call last):
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 61, in <module>
+    test_upload_speed()
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 37, in test_upload_speed
+    file_to_upload = open("file_to_upload.txt", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'file_to_upload.txt'
+connection_test.py
+Download Speed: 1.36 Mbps
+Traceback (most recent call last):
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 61, in <module>
+    test_upload_speed()
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 37, in test_upload_speed
+    file_to_upload = open("file_to_upload.txt", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'file_to_upload.txt'connection_test.py
+Download Speed: 1.36 Mbps
+Traceback (most recent call last):
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 61, in <module>
+    test_upload_speed()
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 37, in test_upload_speed
+    file_to_upload = open("file_to_upload.txt", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'file_to_upload.txt'connection_test.py
+Download Speed: 1.36 Mbps
+Traceback (most recent call last):
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 61, in <module>
+    test_upload_speed()
+  File "c:\Users\edwar\OneDrive\Desktop\test\exercises\ASCII\connection_test.py", line 37, in test_upload_speed
+    file_to_upload = open("file_to_upload.txt", "rb")
+FileNotFoundError: [Errno 2] No such file or directory: 'file_to_upload.txt'
